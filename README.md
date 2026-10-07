@@ -4,9 +4,7 @@ A clean, customizable, and responsive countdown timer widget for Flutter applica
 
 Built with a responsive layout to prevent horizontal overflow across different screen sizes.
 
-<p align="center">
-  <img src="example/assets/countdown.gif" width="200" alt="Flutter Countdown View Demo">
-</p>
+
 
 ## Features
 
